@@ -3,9 +3,9 @@
 Дипломный проект представляет собой автоматизацию тестирования комплексного сервиса.
 
 ## Документы
-* [План автоматизации]()
-* [Отчет по итогам тестирования]()
-* [Отчет по итогам автоматизированного тестирования]()
+* [План автоматизации](https://github.com/ViktoriyaBelova/Diploma_QA_Belova/blob/main/Plan.md)
+* [Отчет по итогам тестирования](https://github.com/ViktoriyaBelova/Diploma_QA_Belova/blob/main/Report.md)
+* [Отчет по итогам автоматизированного тестирования](https://github.com/ViktoriyaBelova/Diploma_QA_Belova/blob/main/Summary.md)
 
 На локальном компьютере заранее должны быть установлены IntelliJ IDEA и Docker.
 

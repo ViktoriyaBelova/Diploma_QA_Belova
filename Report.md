@@ -13,23 +13,24 @@
 ## 2. Количество тест-кейсов
 
 - Всего тест-кейсов: 38
-<img width="1707" alt="Снимок экрана 2025-06-16 в 19 51 12" src="https://github.com/user-attachments/assets/96b32a54-3fba-4e53-9430-0fad16e55dad" />
 
-- Успешных тест-кейсов: 24
-- Неуспешных тест-кейсов: 14
+<img width="1705" alt="Снимок экрана 2025-06-16 в 21 37 20" src="https://github.com/user-attachments/assets/eb681e2a-0221-4faf-b86b-5a9a2864084f" />
 
-<img width="1706" alt="Снимок экрана 2025-06-16 в 19 54 46" src="https://github.com/user-attachments/assets/2543f28d-7e75-4edb-871b-9652b85b15d3" />
 
-<img width="1704" alt="Снимок экрана 2025-06-16 в 19 57 01" src="https://github.com/user-attachments/assets/ece54f30-9db1-45b2-85e3-4bc0d9810937" />
+- Успешных тест-кейсов: 25
+- Неуспешных тест-кейсов: 13
 
-<img width="1705" alt="Снимок экрана 2025-06-16 в 19 56 11" src="https://github.com/user-attachments/assets/e54530e8-824f-409d-9130-c23354d6c283" />
+<img width="1708" alt="Снимок экрана 2025-06-16 в 21 37 39" src="https://github.com/user-attachments/assets/1e951a37-e12e-48b1-8885-9c548018713b" />
 
+<img width="1702" alt="Снимок экрана 2025-06-16 в 21 38 04" src="https://github.com/user-attachments/assets/2bb0194a-bc1e-416e-9aa1-7b9261ba62a5" />
+
+<img width="1710" alt="Снимок экрана 2025-06-16 в 21 38 43" src="https://github.com/user-attachments/assets/11d6b4c5-8488-41db-a6db-dc8bfb44becd" />
 
 
 ## 3. Процент успешных/неуспешных тест-кейсов
 
-- Процент успешных: 63.15%
-- Процент неуспешных: 36.85%
+- Процент успешных: 65.78%
+- Процент неуспешных: 34.22%
 
 ## 4. Общие рекомендации
 
